@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ThundersTasks.API.props" />
+</Project>
